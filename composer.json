@@ -14,9 +14,9 @@
   {
 
     "insiteapps/common": "dev-master",
+    "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "dev-master",
     "silvershop/core": "dev-master",
-    "silvershop/stock": "dev-master",
     "silverstripe/silverstripe-omnipay": "~2.0",
     "icecaster/versioned-gridfield": "~1.0",
     "burnbright/silverstripe-listsorter": "~2.0",
@@ -24,6 +24,8 @@
     "markguinn/silverstripe-email-helpers": "~1.2",
     "silvershop/geocoding": "~2.0",
     "silvershop/discounts": "dev-master",
+
+    "silvershop/stock": "dev-master",
     "silvershop/shipping": "dev-master",
     "burnbright/silverstripe-shop-comparison": "dev-master",
     "burnbright/silverstripe-shop-googleanalytics": "dev-master",
@@ -33,6 +35,7 @@
     "omnipay/paypal": "*",
     "omnipay/payfast": "~2.0",
     "markguinn/silverstripe-ajax": "dev-master",
+
     "guzzle/guzzle": "~3.9",
     "geoip/geoip": "*",
     "geoip2/geoip2": "*",
