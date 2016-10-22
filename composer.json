@@ -12,24 +12,36 @@
   ],
   "require":
   {
-    "silverstripe/framework": "3.*",
-    "silverstripe/cms": "3.*",
-    "silverstripe/subsites": "*",
-    "chitosystems/bootstrap-fields": "dev-master",
-    "bummzack/sortablefile": "dev-master",
-    "kinglozzer/metatitle": "*",
-    "colymba/gridfield-bulk-editing-tools": "*",
-    "unclecheese/betterbuttons": "dev-master",
-    "unclecheese/dropzone": "dev-master",
-    "unclecheese/eventcalendar": "dev-master",
-    "jonom/silverstripe-postmark-mailer": "^1.0",
-    "undefinedoffset/sortablegridfield": "dev-master",
-    "undefinedoffset/silverstripe-nocaptcha": "^0.1.5",
-    "jeroendesloovere/vcard": "1.2.*",
-    "phpFastCache/phpFastCache": "*",
-    "nathancox/minify": "dev-master"
+
+    "insiteapps/common": "dev-master",
+    "burnbright/silverstripe-hasonefield": "dev-master",
+    "silvershop/core": "dev-master",
+    "silvershop/stock": "dev-master",
+    "silverstripe/silverstripe-omnipay": "~2.0",
+    "icecaster/versioned-gridfield": "~1.0",
+    "burnbright/silverstripe-listsorter": "~2.0",
+    "burnbright/silverstripe-sqlquerylist": "~1.0",
+    "markguinn/silverstripe-email-helpers": "~1.2",
+    "silvershop/geocoding": "~2.0",
+    "silvershop/discounts": "dev-master",
+    "silvershop/shipping": "dev-master",
+    "burnbright/silverstripe-shop-comparison": "dev-master",
+    "burnbright/silverstripe-shop-googleanalytics": "dev-master",
+    "burnbright/silverstripe-shop-geocoding": "dev-master",
+    "bummzack/silverstripe-omnipay-ui": "dev-master",
+    "markguinn/silverstripe-shop-ajax": "~1.0.0",
+    "omnipay/paypal": "*",
+    "omnipay/payfast": "~2.0",
+    "markguinn/silverstripe-ajax": "dev-master",
+    "guzzle/guzzle": "~3.9",
+    "geoip/geoip": "*",
+    "geoip2/geoip2": "*",
+    "symfony/stopwatch": "*",
+    "symfony/process": "*",
+    "guzzlehttp/guzzle": "*"
+
   },
   "extra": {
-    "installer-name": "insiteapps-common"
+    "installer-name": "insiteapps-common-ecommerce"
   }
 }
