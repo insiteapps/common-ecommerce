@@ -1,0 +1,35 @@
+{
+  "name": "insiteapps/common-ecommerce",
+  "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
+  "type": "silverstripe-module",
+  "keywords": ["insite"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Itayi Patrick Chitovoro",
+      "email": "patrick@chitosystems.com"
+    }
+  ],
+  "require":
+  {
+    "silverstripe/framework": "3.*",
+    "silverstripe/cms": "3.*",
+    "silverstripe/subsites": "*",
+    "chitosystems/bootstrap-fields": "dev-master",
+    "bummzack/sortablefile": "dev-master",
+    "kinglozzer/metatitle": "*",
+    "colymba/gridfield-bulk-editing-tools": "*",
+    "unclecheese/betterbuttons": "dev-master",
+    "unclecheese/dropzone": "dev-master",
+    "unclecheese/eventcalendar": "dev-master",
+    "jonom/silverstripe-postmark-mailer": "^1.0",
+    "undefinedoffset/sortablegridfield": "dev-master",
+    "undefinedoffset/silverstripe-nocaptcha": "^0.1.5",
+    "jeroendesloovere/vcard": "1.2.*",
+    "phpFastCache/phpFastCache": "*",
+    "nathancox/minify": "dev-master"
+  },
+  "extra": {
+    "installer-name": "insiteapps-common"
+  }
+}
