@@ -2,7 +2,9 @@
   "name": "insiteapps/common-ecommerce",
   "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
   "type": "silverstripe-module",
-  "keywords": ["insite"],
+  "keywords": [
+    "insite"
+  ],
   "license": "BSD-3-Clause",
   "authors": [
     {
@@ -10,9 +12,8 @@
       "email": "patrick@chitosystems.com"
     }
   ],
-  "require":
-  {
-
+  "require": {
+    "silverstripe/multiform": "*",
     "insiteapps/common": "dev-master",
     "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "dev-master",
@@ -24,7 +25,6 @@
     "markguinn/silverstripe-email-helpers": "~1.2",
     "silvershop/geocoding": "~2.0",
     "silvershop/discounts": "dev-master",
-
     "silvershop/stock": "dev-master",
     "silvershop/shipping": "dev-master",
     "burnbright/silverstripe-shop-comparison": "dev-master",
@@ -35,14 +35,12 @@
     "omnipay/paypal": "*",
     "omnipay/payfast": "~2.0",
     "markguinn/silverstripe-ajax": "dev-master",
-
     "guzzle/guzzle": "~3.9",
     "geoip/geoip": "*",
     "geoip2/geoip2": "*",
     "symfony/stopwatch": "*",
     "symfony/process": "*",
     "guzzlehttp/guzzle": "*"
-
   },
   "extra": {
     "installer-name": "insiteapps-common-ecommerce"
