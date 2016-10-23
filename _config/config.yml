@@ -1,10 +1,16 @@
 ---
-Name: chito config
----
----
 Name: app
 After: silvershop/config#shopconfig
 ---
+
+Page:
+  extensions:
+    - InsiteCommonEcommrcePageExtension
+
+Page_Controller:
+  extensions:
+    - InsiteCommonEcommrcePageControllerExtension
+
 i18n:
   default_locale: en_US
 
