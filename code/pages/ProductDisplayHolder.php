@@ -1,5 +1,9 @@
 <?php
 
+//namespace InsiteApps\Common\Ecommerce
+
+//use InsiteApps\Common
+
 /**
  * Class ProductDisplayHolder
  */
