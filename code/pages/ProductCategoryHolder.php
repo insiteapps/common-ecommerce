@@ -7,13 +7,22 @@
 /**
  * Class ProductCategoryHolder
  */
-class ProductCategoryHolder extends Page
+class ProductCategoryHolder extends SimpleListingHolder
 {
     private static $allowed_children = array("ProductCategory");
     private static $default_child = "ProductCategory";
+
+    function getTemplateList()
+    {
+        return [
+            "Default" => "Default",
+            "BlockInfo" => "Block Info",
+
+        ];
+    }
 }
 
-class ProductCategoryHolder_Controller extends Page_Controller
+class ProductCategoryHolder_Controller extends SimpleListingHolder_Controller
 {
 
 }
