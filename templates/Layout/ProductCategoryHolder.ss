@@ -1,4 +1,4 @@
-<section class="slice white no-padding">
+<section class="slice white">
     <div class="wp-section">
         <div class="container">
             <div class="row">
@@ -8,7 +8,7 @@
                             <img src="{$Image.URL}" class="img-responsive" alt="">
                             <div class="wp-block-info over text-center">
                                 <h3 class="info-title text-uppercase">{$Title}</h3>
-                                <a href="{$Link}">See the new collection</a>
+                                <a href="{$Link}">See the collection</a>
                             </div>
                         </div>
                     </div>
