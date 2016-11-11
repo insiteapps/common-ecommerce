@@ -16,7 +16,7 @@
                         <% loop $Children %>
                             <div class="col-xs-6 col-md-4">
                                 <% if $Top.Template %>
-                                    $renderWidth($ParentTemplate)
+                                    $renderWith($Top.Template)
                                 <% else %>
                                     <% include BlockInfo %>
                                 <% end_if %>
