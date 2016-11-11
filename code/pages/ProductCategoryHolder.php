@@ -20,6 +20,8 @@ class ProductCategoryHolder extends SimpleListingHolder
 
         ];
     }
+
+
 }
 
 class ProductCategoryHolder_Controller extends SimpleListingHolder_Controller
