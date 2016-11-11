@@ -55,7 +55,6 @@
                         <% loop Children %>
                             <div class="col-sm-6 col-md-3">
                                 <div class="wp-block product">
-
                                     <figure>
                                         <img alt="" src="{$Image.URL}" class="img-responsive img-center">
                                         <% if $Ribbon %>
