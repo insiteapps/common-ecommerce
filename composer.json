@@ -14,7 +14,6 @@
   ],
   "require": {
     "silverstripe/multiform": "*",
-
     "insiteapps/common": "dev-master",   
     "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "dev-master",
