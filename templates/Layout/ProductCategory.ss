@@ -10,8 +10,8 @@
                 <div class="{$GetContentWidth}">
                     <div class="row">{$Title}
                         <% loop $Children %>
-                            <div class="col-xs-6 col-md-4">$Template
-                                <% if $Top.Template %>$Top.Template
+                            <div class="col-xs-6 col-md-4">
+                                <% if $Top.Template %>
                                     $renderWith($Top.Template)
                                 <% else %>
                                     <% include BlockInfo %>
