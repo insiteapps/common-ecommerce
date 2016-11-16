@@ -72,6 +72,11 @@ Order:
     - MemberCancelled
     - AdminCancelled
 
+OrderActionsForm:
+  allow_paying: true # disable prompt to pay an unpaid order on the AccountPage
+  allow_cancelling: true # allow cancelling of an order on the AccountPage
+  email_notification: true  # Send email upon cancellation of an order
+
 OrderManipulation:
   allow_cancelling: true
   allow_paying: true
