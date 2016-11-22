@@ -14,7 +14,7 @@
 
                     <div class="row">
                         <% loop $Children %>
-                            <div class="col-xs-6 col-md-4">
+                            <div class="col-sm-{$Parent.ColumnsWidth} ">
                                 <% if $Top.Template %>
                                     $renderWith($Top.Template)
                                 <% else %>
@@ -37,6 +37,7 @@
     </div>
 </section>
 
+<% include BlockSectionContent %>
 
 
 
