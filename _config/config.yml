@@ -19,7 +19,7 @@ ShopCurrency:
   thousand_delimiter: ','
 
 Product:
-  global_allow_purchase: true
+  #global_allow_purchase: true
   # length_unit: 'M'
   # weight_unit: 'Pounds'
   db: # Revised decimal places
