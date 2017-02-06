@@ -15,7 +15,7 @@
   "require": {
     "silverstripe/multiform": "*",
     "silverstripe-australia/memberprofiles": "*",
-    "insiteapps/common": "1.0.0",
+    "insiteapps/common": "^1.0.0",
     "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "dev-master",
     "silvershop/core": "dev-master",
