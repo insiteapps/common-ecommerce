@@ -7,7 +7,7 @@
 /**
  * Class ProductCategoryHolder
  */
-class ProductCategoryHolder extends SimpleListingHolder
+class ProductCategoryHolder extends ListingHolder
 {
     private static $allowed_children = array("ProductCategory");
     private static $default_child = "ProductCategory";
@@ -24,7 +24,7 @@ class ProductCategoryHolder extends SimpleListingHolder
 
 }
 
-class ProductCategoryHolder_Controller extends SimpleListingHolder_Controller
+class ProductCategoryHolder_Controller extends ListingHolder_Controller
 {
 
 }
