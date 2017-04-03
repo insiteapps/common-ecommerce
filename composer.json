@@ -34,6 +34,7 @@
     "bummzack/silverstripe-omnipay-ui": "dev-master",
     "markguinn/silverstripe-shop-ajax": "~1.0.0",
     "omnipay/paypal": "*",
+    "omnipay/payfast": "~2.0",
     "omnipay/manual": "~2.0",
     "omnipay/dummy": "~2.0",
     "markguinn/silverstripe-ajax": "dev-master",
