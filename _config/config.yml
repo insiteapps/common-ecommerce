@@ -78,8 +78,3 @@ OrderActionsForm:
 OrderManipulation:
   allow_cancelling: true
   allow_paying: true
-
-
-ProductCategory:
-  extensions:
-    - SimpleListingHolderExtension
