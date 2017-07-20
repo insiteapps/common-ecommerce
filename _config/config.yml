@@ -18,10 +18,16 @@ ShopCurrency:
   decimal_delimiter: '.'
   thousand_delimiter: ','
 
+ProductVariation:
+  extensions:
+    - Downloadable
+
 Product:
   #global_allow_purchase: true
   # length_unit: 'M'
   # weight_unit: 'Pounds'
+  extensions:
+  - Downloadable
   db: # Revised decimal places
     CostPrice: 'Currency(19,2)'
     BasePrice: 'Currency(19,2)'

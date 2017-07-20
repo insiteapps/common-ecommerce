@@ -27,6 +27,7 @@
     "silvershop/discounts": "dev-master",
     "silvershop/stock": "dev-master",
     "silvershop/shipping": "dev-master",
+    "markguinn/silverstripe-shop-downloadable": "dev-master",
     "burnbright/silverstripe-shop-comparison": "dev-master",
     "burnbright/silverstripe-shop-googleanalytics": "dev-master",
     "burnbright/silverstripe-shop-geocoding": "dev-master",
