@@ -37,6 +37,7 @@
     "omnipay/manual": "~2.0",
     "omnipay/dummy": "~2.0",
     "markguinn/silverstripe-ajax": "dev-master",
+    "markguinn/silverstripe-shop-extendedpricing": "dev-master",
     "guzzle/guzzle": "~3.9",
     "geoip/geoip": "*",
     "geoip2/geoip2": "*",
