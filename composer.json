@@ -40,7 +40,6 @@
     "markguinn/silverstripe-shop-extendedpricing": "dev-master",
     "markguinn/silverstripe-shop-search": "dev-master",
     "markguinn/silverstripe-shop-email": "dev-master",
-    "milkyway-multimedia/ss-shop-checkout-extras": "~0.2",
     "guzzle/guzzle": "~3.9",
     "geoip/geoip": "*",
     "geoip2/geoip2": "*",
