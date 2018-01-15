@@ -40,7 +40,7 @@
     "markguinn/silverstripe-shop-extendedpricing": "dev-master",
     "markguinn/silverstripe-shop-search": "dev-master",
     "markguinn/silverstripe-shop-email": "dev-master",
-    "guzzle/guzzle": "~3.9"
+    "guzzle/guzzle": "~3.9",
     "geoip2/geoip2": "*",
     "symfony/stopwatch": "*",
     "symfony/process": "*",
