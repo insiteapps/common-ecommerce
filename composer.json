@@ -14,7 +14,7 @@
   ],
   "require": {
     "silverstripe/multiform": "*",
-    "symbiote/silverstripe-memberprofiles ": "*",
+    "symbiote/silverstripe-memberprofiles": "*",
     "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "*",
     "silvershop/core": "dev-master",
