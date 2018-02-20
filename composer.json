@@ -1,51 +1,51 @@
 {
-  "name": "insiteapps/common-ecommerce",
-  "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
-  "type": "silverstripe-module",
-  "keywords": [
-    "insite"
-  ],
-  "license": "BSD-3-Clause",
-  "authors": [
-    {
-      "name": "Itayi Patrick Chitovoro",
-      "email": "patrick@chitosystems.com"
+    "name": "insiteapps/common-ecommerce",
+    "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
+    "type": "silverstripe-module",
+    "keywords": [
+        "insite"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Itayi Patrick Chitovoro",
+            "email": "patrick@chitosystems.com"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "3.6.1",
+        "silverstripe/multiform": "*",
+        "symbiote/silverstripe-memberprofiles": "*",
+        "zendframework/zend-http": "dev-master",
+        "burnbright/silverstripe-hasonefield": "*",
+        "silvershop/core": "~2.0",
+        "silverstripe/silverstripe-omnipay": "*",
+        "icecaster/versioned-gridfield": "*",
+        "silvershop/silverstripe-listsorter": "*",
+        "silvershop/silverstripe-sqlquerylist": "*",
+        "silvershop/geocoding": "~2.0",
+        "silvershop/discounts": "*",
+        "silvershop/stock": "*",
+        "silvershop/shipping": "*",
+        "markguinn/silverstripe-shop-downloadable": "*",
+        "burnbright/silverstripe-shop-comparison": "*",
+        "burnbright/silverstripe-shop-googleanalytics": "dev-master",
+        "bummzack/silverstripe-omnipay-ui": "*",
+        "markguinn/silverstripe-shop-ajax": "*",
+        "omnipay/paypal": "*",
+        "omnipay/manual": "~2.0",
+        "omnipay/dummy": "~2.0",
+        "markguinn/silverstripe-ajax": "*",
+        "markguinn/silverstripe-shop-extendedpricing": "*",
+        "markguinn/silverstripe-shop-search": "*",
+        "guzzle/guzzle": "~3.9",
+        "geoip2/geoip2": "*",
+        "symfony/stopwatch": "*",
+        "symfony/process": "*",
+        "guzzlehttp/guzzle": "*"
+    },
+    "extra": {
+        "installer-name": "insiteapps-common-ecommerce"
     }
-  ],
-  "require": {
-      "silverstripe/framework": "3.6.1",
-    "silverstripe/multiform": "*",
-    "symbiote/silverstripe-memberprofiles": "*",
-    "zendframework/zend-http": "dev-master",
-    "burnbright/silverstripe-hasonefield": "*",
-    "silvershop/core": "~2.0",
-    "silverstripe/silverstripe-omnipay": "*",
-    "icecaster/versioned-gridfield": "*",
-    "silvershop/silverstripe-listsorter": "*",
-    "silvershop/silverstripe-sqlquerylist": "*",
-    "silvershop/geocoding": "~2.0",
-    "silvershop/discounts": "*",
-    "silvershop/stock": "*",
-    "silvershop/shipping": "*",
-    "markguinn/silverstripe-shop-downloadable": "*",
-    "burnbright/silverstripe-shop-comparison": "*",
-    "burnbright/silverstripe-shop-googleanalytics": "dev-master",
-    "bummzack/silverstripe-omnipay-ui": "*",
-    "markguinn/silverstripe-shop-ajax": "*",
-    "omnipay/paypal": "*",
-    "omnipay/manual": "~2.0",
-    "omnipay/dummy": "~2.0",
-    "markguinn/silverstripe-ajax": "*",
-    "markguinn/silverstripe-shop-extendedpricing": "*",
-    "markguinn/silverstripe-shop-search": "*",
-    "guzzle/guzzle": "~3.9",
-    "geoip2/geoip2": "*",
-    "symfony/stopwatch": "*",
-    "symfony/process": "*",
-    "guzzlehttp/guzzle": "*"
-  },
-  "extra": {
-    "installer-name": "insiteapps-common-ecommerce"
-  }
 }
 
