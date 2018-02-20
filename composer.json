@@ -18,7 +18,7 @@
     "symbiote/silverstripe-memberprofiles": "*",
     "zendframework/zend-http": "dev-master",
     "burnbright/silverstripe-hasonefield": "*",
-    "silvershop/core": "*",
+    "silvershop/core": "~2.0",
     "silverstripe/silverstripe-omnipay": "*",
     "icecaster/versioned-gridfield": "*",
     "silvershop/silverstripe-listsorter": "*",
