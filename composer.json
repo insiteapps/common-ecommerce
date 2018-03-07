@@ -31,7 +31,7 @@
         "burnbright/silverstripe-shop-comparison": "*",
         "burnbright/silverstripe-shop-googleanalytics": "dev-master",
         "bummzack/silverstripe-omnipay-ui": "*",
-        "markguinn/silverstripe-shop-ajax": "*",
+
         "omnipay/paypal": "*",
         "omnipay/manual": "~2.0",
         "omnipay/dummy": "~2.0",
