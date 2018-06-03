@@ -13,7 +13,6 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "3.6.1",
         "silverstripe/multiform": "*",
         "symbiote/silverstripe-memberprofiles": "*",
         "zendframework/zend-http": "dev-master",
@@ -23,7 +22,6 @@
         "icecaster/versioned-gridfield": "*",
         "silvershop/silverstripe-listsorter": "*",
         "silvershop/silverstripe-sqlquerylist": "*",
-        "silvershop/geocoding": "~2.0",
         "silvershop/discounts": "*",
         "silvershop/stock": "*",
         "silvershop/shipping": "*",
