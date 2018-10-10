@@ -1,45 +1,41 @@
 {
-    "name": "insiteapps/common-ecommerce",
-    "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
-    "type": "silverstripe-module",
-    "keywords": [
-        "insite"
-    ],
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Itayi Patrick Chitovoro",
-            "email": "patrick@chitosystems.com"
-        }
-    ],
-    "require": {
-        "silverstripe/multiform": "*",
-        "symbiote/silverstripe-memberprofiles": "*",
-        "zendframework/zend-http": "dev-master",
-        "burnbright/silverstripe-hasonefield": "*",
-        "silvershop/core": "*",
-        "silverstripe/silverstripe-omnipay": "*",
-        "icecaster/versioned-gridfield": "*",
-        "silvershop/silverstripe-sqlquerylist": "*",
-        "silvershop/discounts": "*",
-        "silvershop/stock": "*",
-        "silvershop/shipping": "*",
-        "markguinn/silverstripe-shop-downloadable": "*",
-        "bummzack/silverstripe-omnipay-ui": "*",
-
-        "omnipay/paypal": "*",
-        "omnipay/manual": "~2.0",
-        "omnipay/dummy": "~2.0",
-        "markguinn/silverstripe-ajax": "*",
-        "markguinn/silverstripe-shop-extendedpricing": "*",
-        "guzzle/guzzle": "~3.9",
-        "geoip2/geoip2": "*",
-        "symfony/stopwatch": "*",
-        "symfony/process": "*",
-        "guzzlehttp/guzzle": "*"
-    },
-    "extra": {
-        "installer-name": "insiteapps-common-ecommerce"
+  "name": "insiteapps/common-ecommerce",
+  "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
+  "type": "silverstripe-module",
+  "keywords": [
+    "insite"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Itayi Patrick Chitovoro",
+      "email": "patrick@chitosystems.com"
     }
+  ],
+  "require": {
+    "silverstripe/multiform": "*",
+    "symbiote/silverstripe-memberprofiles": "*",
+    "zendframework/zend-http": "dev-master",
+    "burnbright/silverstripe-hasonefield": "*",
+    "silvershop/core": "*",
+    "silverstripe/silverstripe-omnipay": "*",
+    "icecaster/versioned-gridfield": "*",
+    "silvershop/silverstripe-sqlquerylist": "*",
+    "silvershop/discounts": "*",
+    "silvershop/stock": "*",
+    "silvershop/shipping": "*",
+    "markguinn/silverstripe-shop-downloadable": "*",
+    "bummzack/silverstripe-omnipay-ui": "*",
+    "omnipay/paypal": "*",
+    "omnipay/manual": "~2.0",
+    "omnipay/dummy": "~2.0",
+    "markguinn/silverstripe-ajax": "*",
+    "guzzle/guzzle": "~3.9",
+    "geoip2/geoip2": "*",
+    "guzzlehttp/guzzle": "*"
+  },
+  "extra": {
+    "installer-name": "insiteapps-common-ecommerce"
+  }
 }
 
