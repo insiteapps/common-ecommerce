@@ -32,7 +32,8 @@
     "markguinn/silverstripe-ajax": "*",
     "guzzle/guzzle": "~3.9",
     "geoip2/geoip2": "*",
-    "guzzlehttp/guzzle": "*"
+    "guzzlehttp/guzzle": "*",
+    "vendapi/vendapi": "dev-master"
   },
   "extra": {
     "installer-name": "insiteapps-common-ecommerce"
