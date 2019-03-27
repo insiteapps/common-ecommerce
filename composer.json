@@ -33,8 +33,7 @@
     "guzzle/guzzle": "~3.9",
     "geoip2/geoip2": "*",
     "guzzlehttp/guzzle": "*",
-    "ext-curl":          "*",
-    "vendapi/vendapi": "dev-master"
+    "ext-curl":          "*"
   },
   "extra": {
     "installer-name": "insiteapps-common-ecommerce"
