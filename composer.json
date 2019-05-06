@@ -12,8 +12,9 @@
       "email": "patrick@chitosystems.com"
     }
   ],
+
   "require": {
-    "burnbright/silverstripe-hasonefield": "1.x-dev",
+
     "silvershop/core": "2.x-dev",
     "silverstripe/multiform": "*",
     "symbiote/silverstripe-memberprofiles": "*",
@@ -21,17 +22,15 @@
     "icecaster/versioned-gridfield": "*",
     "silvershop/discounts": "*",
     "silvershop/stock": "*",
-    "silvershop/shipping": "*",
+
+    "silvershop/silverstripe-hasonefield": "~1.0",
+
     "markguinn/silverstripe-shop-downloadable": "*",
     "bummzack/silverstripe-omnipay-ui": "*",
     "omnipay/paypal": "*",
     "omnipay/manual": "~2.0",
     "omnipay/dummy": "~2.0",
-    "markguinn/silverstripe-ajax": "*",
-    "guzzle/guzzle": "~3.9",
-    "geoip2/geoip2": "*",
-    "guzzlehttp/guzzle": "*",
-    "ext-curl":          "*"
+    "markguinn/silverstripe-ajax": "*"
   },
   "extra": {
     "installer-name": "insiteapps-common-ecommerce"
