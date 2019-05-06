@@ -22,9 +22,7 @@
     "icecaster/versioned-gridfield": "*",
     "silvershop/discounts": "*",
     "silvershop/stock": "*",
-
     "silvershop/silverstripe-hasonefield": "~1.0",
-
     "markguinn/silverstripe-shop-downloadable": "*",
     "bummzack/silverstripe-omnipay-ui": "*",
     "omnipay/paypal": "*",
