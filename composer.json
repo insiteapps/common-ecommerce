@@ -13,15 +13,21 @@
     }
   ],
   "require": {
+    "silvershop/core": "2.x-dev",
     "silverstripe/multiform": "*",
     "symbiote/silverstripe-memberprofiles": "*",
+    "zendframework/zend-http": "dev-master",
 
-    "silvershop/core": "2.x-dev",
-    "silvershop/stock": "*",
+
+
+    "burnbright/silverstripe-hasonefield": "*",
+
+    "silverstripe/silverstripe-omnipay": "*",
+    "icecaster/versioned-gridfield": "*",
+    "silvershop/silverstripe-sqlquerylist": "*",
     "silvershop/discounts": "*",
+    "silvershop/stock": "*",
     "silvershop/shipping": "*",
-
-
     "markguinn/silverstripe-shop-downloadable": "*",
     "bummzack/silverstripe-omnipay-ui": "*",
     "omnipay/paypal": "*",
