@@ -20,7 +20,7 @@
 
 
 
-    "burnbright/silverstripe-hasonefield": "*",
+    "burnbright/silverstripe-hasonefield": "1.x-dev",
 
     "silverstripe/silverstripe-omnipay": "*",
     "icecaster/versioned-gridfield": "*",
