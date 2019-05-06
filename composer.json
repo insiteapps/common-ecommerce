@@ -13,15 +13,12 @@
     }
   ],
   "require": {
+    "burnbright/silverstripe-hasonefield": "1.x-dev",
     "silvershop/core": "2.x-dev",
+
     "silverstripe/multiform": "*",
     "symbiote/silverstripe-memberprofiles": "*",
     "zendframework/zend-http": "dev-master",
-
-
-
-    "burnbright/silverstripe-hasonefield": "1.x-dev",
-
     "silverstripe/silverstripe-omnipay": "*",
     "icecaster/versioned-gridfield": "*",
     "silvershop/silverstripe-sqlquerylist": "*",
