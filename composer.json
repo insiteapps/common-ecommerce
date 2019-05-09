@@ -16,6 +16,7 @@
   "require": {
 
     "silvershop/core": "2.x-dev",
+    "silvershop/geocoding": "~2.0",
     "silverstripe/multiform": "*",
     "symbiote/silverstripe-memberprofiles": "*",
     "silverstripe/silverstripe-omnipay": "*",
