@@ -28,10 +28,8 @@
         "omnipay/manual": "~2.0",
         "omnipay/dummy": "~2.0",
         "markguinn/silverstripe-ajax": "*",
-        "dompdf": "*",
-        "pdfmake": "*",
-        "html2canvas": "*",
-        "stuk/jszip": "*"
+        "dompdf/dompdf": "*",
+        "bpampuch/pdfmake": "*"
     },
     "extra": {
         "installer-name": "insiteapps-common-ecommerce"
