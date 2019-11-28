@@ -28,7 +28,11 @@
         "omnipay/manual": "~2.0",
         "omnipay/dummy": "~2.0",
         "markguinn/silverstripe-ajax": "*",
-        "dompdf/dompdf": "dev-master"
+        "php-font-lib": "*",
+        "dompdf": "*",
+        "pdfmake": "*",
+        "html2canvas": "*",
+        "Stuk/jszip": "*"
     },
     "extra": {
         "installer-name": "insiteapps-common-ecommerce"
