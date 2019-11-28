@@ -1,38 +1,37 @@
 {
-  "name": "insiteapps/common-ecommerce",
-  "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
-  "type": "silverstripe-module",
-  "keywords": [
-    "insite"
-  ],
-  "license": "BSD-3-Clause",
-  "authors": [
-    {
-      "name": "Itayi Patrick Chitovoro",
-      "email": "patrick@chitosystems.com"
+    "name": "insiteapps/common-ecommerce",
+    "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
+    "type": "silverstripe-module",
+    "keywords": [
+        "insite"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Itayi Patrick Chitovoro",
+            "email": "patrick@chitosystems.com"
+        }
+    ],
+    "require": {
+        "silvershop/core": "2.x-dev",
+        "silvershop/geocoding": "~2.0",
+        "silverstripe/multiform": "*",
+        "symbiote/silverstripe-memberprofiles": "*",
+        "silverstripe/silverstripe-omnipay": "*",
+        "icecaster/versioned-gridfield": "*",
+        "silvershop/discounts": "*",
+        "silvershop/stock": "*",
+        "silvershop/silverstripe-hasonefield": "~1.0",
+        "markguinn/silverstripe-shop-downloadable": "*",
+        "bummzack/silverstripe-omnipay-ui": "*",
+        "omnipay/paypal": "*",
+        "omnipay/manual": "~2.0",
+        "omnipay/dummy": "~2.0",
+        "markguinn/silverstripe-ajax": "*",
+        "dompdf/dompdf": "dev-master"
+    },
+    "extra": {
+        "installer-name": "insiteapps-common-ecommerce"
     }
-  ],
-
-  "require": {
-
-    "silvershop/core": "2.x-dev",
-    "silvershop/geocoding": "~2.0",
-    "silverstripe/multiform": "*",
-    "symbiote/silverstripe-memberprofiles": "*",
-    "silverstripe/silverstripe-omnipay": "*",
-    "icecaster/versioned-gridfield": "*",
-    "silvershop/discounts": "*",
-    "silvershop/stock": "*",
-    "silvershop/silverstripe-hasonefield": "~1.0",
-    "markguinn/silverstripe-shop-downloadable": "*",
-    "bummzack/silverstripe-omnipay-ui": "*",
-    "omnipay/paypal": "*",
-    "omnipay/manual": "~2.0",
-    "omnipay/dummy": "~2.0",
-    "markguinn/silverstripe-ajax": "*"
-  },
-  "extra": {
-    "installer-name": "insiteapps-common-ecommerce"
-  }
 }
 
