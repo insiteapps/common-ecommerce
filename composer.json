@@ -30,9 +30,7 @@
         "markguinn/silverstripe-ajax": "*",
         "php-font-lib": "*",
         "dompdf": "*",
-        "pdfmake": "*",
-        "html2canvas": "*",
-        "stuk/jszip": "*"
+        "pdfmake": "*"
     },
     "extra": {
         "installer-name": "insiteapps-common-ecommerce"
