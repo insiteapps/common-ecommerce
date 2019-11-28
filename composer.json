@@ -29,7 +29,9 @@
         "omnipay/dummy": "~2.0",
         "markguinn/silverstripe-ajax": "*",
         "dompdf": "*",
-        "pdfmake": "*"
+        "pdfmake": "*",
+        "html2canvas": "*",
+        "stuk/jszip": "*"
     },
     "extra": {
         "installer-name": "insiteapps-common-ecommerce"
