@@ -32,7 +32,7 @@
         "dompdf": "*",
         "pdfmake": "*",
         "html2canvas": "*",
-        "Stuk/jszip": "*"
+        "stuk/jszip": "*"
     },
     "extra": {
         "installer-name": "insiteapps-common-ecommerce"
