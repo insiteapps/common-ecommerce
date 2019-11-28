@@ -12,6 +12,7 @@
             "email": "patrick@chitosystems.com"
         }
     ],
+
     "require": {
         "silvershop/core": "2.x-dev",
         "silvershop/geocoding": "~2.0",
