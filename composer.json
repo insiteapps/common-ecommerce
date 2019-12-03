@@ -15,10 +15,10 @@
 
     "require": {
         "silvershop/core": "2.x-dev",
+        "silvershop/geocoding": "~2.0",
         "silverstripe/multiform": "*",
         "symbiote/silverstripe-memberprofiles": "*",
-        "silverstripe/silverstripe-omnipay": "*",
-        "icecaster/versioned-gridfield": "*",
+        "silverstripe/silverstripe-omnipay": "*",      
         "silvershop/discounts": "*",
         "silvershop/stock": "*",
         "silvershop/silverstripe-hasonefield": "~1.0",
