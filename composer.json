@@ -16,9 +16,10 @@
     "require": {
         "silvershop/core": "2.x-dev",
         "silvershop/geocoding": "~2.0",
+        "silverstripe/subsites": "*",
         "silverstripe/multiform": "*",
         "symbiote/silverstripe-memberprofiles": "*",
-        "silverstripe/silverstripe-omnipay": "*",      
+        "silverstripe/silverstripe-omnipay": "*",
         "silvershop/discounts": "*",
         "silvershop/stock": "*",
         "silvershop/silverstripe-hasonefield": "~1.0",
