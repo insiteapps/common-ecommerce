@@ -15,7 +15,6 @@
 
     "require": {
         "silvershop/core": "2.x-dev",
-        "silverstripe/multiform": "*",
         "symbiote/silverstripe-memberprofiles": "*",
         "silverstripe/silverstripe-omnipay": "*",
         "silvershop/discounts": "*",
